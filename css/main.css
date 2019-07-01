@@ -27,8 +27,6 @@ body {
 
 .navbar {
     background-color:  rgba(48, 47, 46, 0.575);
-    height: 50px;
-    width: 70%;
     border-top: 4px double rgb(255, 255, 255);
     border-bottom: 4px double rgb(255, 255, 255);
     margin: auto;
@@ -59,7 +57,7 @@ body {
 }
 
 li.navli {
-    display: inline;
+    display: block;
     margin: 1rem;
 }
 

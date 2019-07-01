@@ -1,3 +1,7 @@
+.article__content {
+    text-align: justify;
+}
+
 .scripts {
     background-color: rgba(51, 33, 22, 0.349);
     margin: 1rem;

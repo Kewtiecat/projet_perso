@@ -5,3 +5,7 @@ a.link__scripts {
 .linkscript {
     text-align: center;
 }
+
+.content__text {
+    text-align: justify;
+}

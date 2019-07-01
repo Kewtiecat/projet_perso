@@ -1,0 +1,43 @@
+p {
+    text-align: justify;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form__name {
+    margin-top: 1rem;
+}
+
+.form__name--area {
+    width: 50%;
+    margin-bottom: 1rem;
+}
+
+.form__mail {
+    margin-top: 1rem;
+}
+
+.form__mail--area {
+    margin-bottom: 1rem;
+}
+
+.form__message {
+    margin-top: 1rem;
+}
+
+.form__message--area {
+    margin-bottom: 1rem;
+}
+
+.submit {
+    margin: auto;
+    margin-top: 1rem;
+}
+
+.reset {
+    margin: auto;
+    margin-top: 0.2rem;
+}

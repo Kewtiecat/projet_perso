@@ -1,0 +1,17 @@
+.scripts {
+    background-color: rgba(51, 33, 22, 0.349);
+    margin: 1rem;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    text-align: justify;
+    padding: 1rem;
+}
+
+.script__title--mini {
+    text-align:center;
+    font-weight: bold;
+}
+.script__logo {
+    width: 40%;
+    float: left;
+}

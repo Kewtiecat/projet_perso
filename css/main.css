@@ -1,0 +1,104 @@
+body {
+    background-image: url("../img/background.jpg");
+    background-repeat: repeat;
+    font-family: cursive, arial;
+}
+
+.header__title {
+    height: 80px;
+    margin: 2vh;
+    border-radius: 10% 25%;
+    text-align: center;
+}
+
+.fivem__logo {
+    position: relative;
+    float: left;
+    width: 8rem;
+    height: 6rem;
+}
+
+.fivem__title {
+    position: relative;
+    top: 1rem;
+}
+
+.fivem__slogan {
+    position: relative;
+    bottom: 1rem;
+}
+
+.navbar {
+    background-color:  rgba(39, 21, 10, 0.575);
+    height: 50px;
+    width: 70%;
+    border-top: 4px double rgb(255, 255, 255);
+    border-bottom: 4px double rgb(255, 255, 255);
+    margin: auto;
+    margin-top: 3vh;
+    text-align: center;
+    font-size: 0.8rem;
+}
+
+
+.navli a {
+    text-decoration: none;
+    text-transform: uppercase;
+    justify-content: center;
+    color: black;
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+
+.navli a:hover {
+    color: rgb(190, 165, 147);
+    padding: 0.2rem;
+}
+
+.navli a:active {
+    color: rgb(95, 75, 62);
+    position: relative;
+    bottom: 0.1rem;
+}
+
+li.navli {
+    display: inline;
+    margin: 1rem;
+}
+
+main {
+    width: 95%;
+    margin: auto;
+    margin-top: 5vh;
+}
+
+article {
+    background-color: rgb(255, 255, 255);
+    margin-right: 2vh;
+    display: inline-flex;
+    box-shadow: 1rem 1rem 1rem  rgba(46, 21, 7, 0.438), -1rem -1rem 1rem rgba(46, 21, 7, 0.438);
+    padding: 1rem;
+}
+
+h2 {
+    background-color: rgba(29, 18, 11, 0.829);
+    padding: 1rem;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+a.backto__home {
+    background-color: rgba(29, 18, 11, 0.507);
+    padding: 0.5rem;
+    color: rgb(0, 0, 0);
+    margin-top: 1rem;
+    text-decoration: none;
+    font-weight: bolder;
+
+}
+
+footer {
+    margin-top: 2rem;
+    text-align: center;
+    margin-bottom: 3rem;
+}

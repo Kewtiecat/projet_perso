@@ -99,3 +99,27 @@ footer {
     text-align: center;
     margin-bottom: 3rem;
 }
+
+/* -- adaptation Ipad -- */
+@media screen and (min-width:768px) and (max-width:1100px) {
+    .fivem__logo {
+        width: 13rem;
+        height: 11rem;
+    }
+
+    li.navli {
+        display: inline-block;
+    }
+}
+
+/* -- adaptation pc -- */
+@media screen and (min-width:1100px) {
+    .fivem__logo {
+        width: 15rem;
+        height: 13rem; 
+    }
+
+    li.navli {
+        display: inline-block;
+    }
+}

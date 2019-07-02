@@ -7,6 +7,8 @@ a.link__scripts {
 .linkscript {
     text-align: center;
     background-color: rgb(3, 3, 3);
+    width: 50%;
+    margin: auto;
 }
 
 .content__text {

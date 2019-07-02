@@ -1,0 +1,41 @@
+.script___description--top {
+    text-align: justify;
+}
+
+.categorie {
+    border: 1px solid rgb(168, 163, 163);
+    margin-top: 1.5rem;
+    text-align: center;
+    padding: 1.2rem;
+}
+
+a.cat_link {
+    text-decoration: none;
+}
+
+.script__logo {
+    width: 50%;
+    height: 3vh;
+}
+
+.script__title--mini {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
+
+.categorie__1 {
+    background-image: url("../img/debut_dark.png");
+    background-repeat: repeat
+}
+
+.categorie__2 {
+    background-image: url("../img/blackorchid.png");
+    background-repeat: repeat
+}
+
+.categorie__3 {
+    background-image: url("../img/use_your_illusion.png");
+    background-repeat: repeat
+}

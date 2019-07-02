@@ -71,7 +71,6 @@ main {
 article {
     background-color: rgb(255, 255, 255);
     margin-right: 2vh;
-    display: inline-flex;
     box-shadow: 0.5rem 0.5rem 1rem  rgba(88, 88, 87, 0.438), -0.5rem -0.5rem 1rem rgba(88, 88, 87, 0.438);
     padding: 1rem;
 }

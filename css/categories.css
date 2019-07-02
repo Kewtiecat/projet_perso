@@ -11,6 +11,7 @@
 
 a.cat_link {
     text-decoration: none;
+    color: white;
 }
 
 .script__logo {
@@ -24,10 +25,9 @@ a.cat_link {
     font-weight: bold;
 }
 
-
 .categorie__1 {
     background-image: url("../img/debut_dark.png");
-    background-repeat: repeat
+    background-repeat: repeat;
 }
 
 .categorie__2 {

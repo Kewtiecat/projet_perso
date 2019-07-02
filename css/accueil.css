@@ -1,9 +1,12 @@
 a.link__scripts {
-    color: black;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: bold;
 }
 
 .linkscript {
     text-align: center;
+    background-color: rgb(3, 3, 3);
 }
 
 .content__text {

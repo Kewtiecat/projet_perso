@@ -121,4 +121,9 @@ footer {
     li.navli {
         display: inline-block;
     }
+
+    .article__content {
+        width: 65%;
+        margin: auto;
+    }
 }

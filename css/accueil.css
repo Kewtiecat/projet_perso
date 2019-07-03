@@ -14,3 +14,9 @@ a.link__scripts {
 .content__text {
     text-align: justify;
 }
+
+@media screen and (min-width:900px) {
+    .linkscript {
+        width: 30%
+    }
+}

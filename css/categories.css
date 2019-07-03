@@ -15,14 +15,14 @@ a.cat_link {
 }
 
 .script__logo {
-    width: 50%;
-    height: 5vh;
+    width: 90%;
 }
 
 .script__title--mini {
     display: flex;
     justify-content: center;
     font-weight: bold;
+    background-image: url("../img/ressources_img.png")
 }
 
 .categorie__1 {
@@ -38,13 +38,4 @@ a.cat_link {
 .categorie__3 {
     background-image: url("../img/use_your_illusion.png");
     background-repeat: repeat
-}
-
-@media screen and (min-width:1100px) {
-    .categorie {
-        display: inline-block;
-        width: 25%;
-        height: 10rem;
-        vertical-align: top;
-    }
 }

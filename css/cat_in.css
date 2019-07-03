@@ -10,11 +10,11 @@
 }
 
 .script__logo {
-    height: 7vh;
-    width: 30%;
+    width: 90%;
 }
 
 .script__title--mini {
+    background-image: url("../img/ressources_img.png");
     font-weight: bold;
     color: white;
 }

@@ -22,7 +22,8 @@ a.cat_link {
     display: flex;
     justify-content: center;
     font-weight: bold;
-    background-image: url("../img/ressources_img.png")
+    background-image: url("../img/ressources_img.png");
+    margin-top: 1rem;
 }
 
 .categorie__1 {

@@ -1,6 +1,7 @@
 body {
-    background-image: url("../img/background.png");
-    background-repeat: repeat;
+    background-image: url("../img/60931.jpg");
+    background-attachment: fixed;
+    background-size: cover;
     font-family: cursive, arial;
 }
 
@@ -9,7 +10,7 @@ body {
     margin: 2vh;
     text-align: center;
     font-family: Impact, 'Arial Narrow Bold', sans-serif;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 .fivem__logo {
@@ -51,7 +52,7 @@ body {
 }
 
 .navli a:active {
-    color: rgb(95, 75, 62);
+    color: rgb(85, 12, 12);
     position: relative;
     bottom: 0.1rem;
 }
@@ -89,6 +90,7 @@ a.backto__home {
     margin-top: 1rem;
     text-decoration: none;
     font-weight: bolder;
+    margin-bottom: 5vh;
 
 }
 
@@ -97,6 +99,16 @@ footer {
     margin-top: 2rem;
     text-align: center;
     margin-bottom: 3rem;
+}
+
+.footer_links {
+    background-color: rgba(255, 255, 255, 0.329);
+    margin-top: 5vh;
+}
+
+.social__logo {
+    height: 9vh;
+    width: 9vh;
 }
 
 /* -- adaptation Ipad -- */
@@ -108,6 +120,11 @@ footer {
 
     li.navli {
         display: inline-block;
+    }
+
+    .social__logo {
+        height: 11vh;
+        width: 11vh;
     }
 }
 
@@ -125,5 +142,10 @@ footer {
     .article__content {
         width: 65%;
         margin: auto;
+    }
+
+    .social__logo {
+        height: 13vh;
+        width: 13vh;
     }
 }

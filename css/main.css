@@ -113,7 +113,7 @@ footer {
     width: 9vh;
 }
 
-/* -- adaptation Ipad -- */
+/* -- adaptation tablette -- */
 @media screen and (min-width:768px) and (max-width:1100px) {
     .fivem__logo {
         width: 13rem;
